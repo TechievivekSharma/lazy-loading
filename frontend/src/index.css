@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  justify-content: center;  /* horizontally center */
+  align-items: center;      /* vertically center */
+  height: 100vh;            /* poora screen height le */
+  flex-direction: column;   /* items ko column me arrange kare */
+}
